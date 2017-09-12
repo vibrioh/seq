@@ -1,0 +1,49 @@
+{
+	"samples.json": [
+		{
+			"name": "${NAME}",
+			"path": "${PATH}/Raw/RNA.IlluminaHiSeq2500.PolyA",
+			"prefix": "",
+			"library_type": "RNA",
+			"machine_type": "IlluminaHiSeq2500",
+			"library_prep": "PolyA",
+			"paired_end": false,
+			"tissue_of_origin": "unkown",
+			"tumor": false,
+			"matching_normal": null,
+			"purity": null,
+			"display": true
+		}
+	],
+	"analysis.json": [
+		{
+			"pipeline": "RAPiD",
+			"path": "${PATH}/Processed/RAPiD.2_0_0",
+			"args": {
+				"group": "PBG",
+				"reference": "rn4",
+				"partition": "manda",
+				"scheduler": "lsf",
+				"enable_lsf_dependency": true,
+				"star_threads": 16,
+				"qc_nodes":8,
+				"star_walltime":"48:00",
+				"qc_walltime":"72:00",
+				"include_star":true,
+				"include_qc":true,
+				"include_featureCounts":true,
+				"featureCounts_threads":12
+			},
+			"samples": [
+				[
+					"${PATH}/apollo.samples.json",
+					"${NAME}"
+				]
+			],
+			"analyses": [],
+			"display": true
+		}
+	],
+	"max_runtime": 36,
+	"qc_files": [ "qc/metrics.tsv" ]
+}

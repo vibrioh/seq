@@ -1,0 +1,4 @@
+./C1_clout/transcripts.gtf
+./C2_clout/transcripts.gtf
+./D1_clout/transcripts.gtf
+./D2_clout/transcripts.gtf

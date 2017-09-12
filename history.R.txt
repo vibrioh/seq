@@ -1,0 +1,95 @@
+overlap<-function(name){
+    data1_up<-read.delim(paste(name, "/DEGseq/geneExp_", name, "_filtered_DEGseq_2fold_upregulated.txt", sep=""), header=T, sep="\t")
+    data1_down<-read.delim(paste(name, "/DEGseq/geneExp_", name, "_filtered_DEGseq_2fold_downregulated.txt", sep=""), header=T, sep="\t")
+    data2_up<-read.delim(paste(name, "/Tophat/gene_exp_", name, "_selected_2fold_symbol_upregulated.diff", sep=""), header=T, sep="\t")
+    data2_down<-read.delim(paste(name, "/Tophat/gene_exp_", name, "_selected_2fold_symbol_downregulated.diff", sep=""), header=T, sep="\t")
+
+    overlap_up<-merge(data1_up, data2_up, by.x="RefSeq", by.y="gene_id")
+    overlap_up<-overlap_up[order(overlap_up$Log2Rat, decreasing=T),]
+    overlap_down<-merge(data1_down, data2_down, by="RefSeq", by.y="gene_id")
+    overlap_down<-overlap_down[order(overlap_down$Log2Rat, decreasing=F),]
+    
+    print(nrow(data1_up))
+    print(nrow(overlap_up))
+    print(nrow(data2_up))
+    print(nrow(data1_down))
+    print(nrow(overlap_down))
+    print(nrow(data2_down))
+
+
+    if(!file.exists(paste(name, "/overlap", sep=""))){
+        dir.create(paste(name, "/overlap", sep=""), showWarnings=F)
+    }
+
+    write.table(overlap_up, paste(name, "/overlap/geneExp_", name, "_overlapped_2fold_upregulated.txt", sep=''), row.names=F, sep="\t", na="", quote=F)    
+    write.table(overlap_down, paste(name, "/overlap/geneExp_", name, "_overlapped_2fold_downregulated.txt", sep=''), row.names=F, sep="\t", na="", quote=F)    
+
+}
+
+name="E12.5_M_E12.5_W"
+overlap(name)
+
+name="E13.5_M_E13.5_W"
+overlap(name)
+
+name="E14.5_M_E14.5_W"
+overlap(name)
+
+
+twofold<-function(name){
+    data<-read.delim(paste(name, "/Tophat/gene_exp.diff", sep=""), header=T, sep="\t")
+    data<-data[(data$q_value<0.05 & abs(data$log2.fold_change.)>1),]
+    data_up<-data[data$log2.fold_change.>0, ]
+    data_up<-data_up[order(data_up$log2.fold_change., decreasing=T),  ]
+    data_down<-data[data$log2.fold_change.<0, ]
+    data_down<-data_down[order(data_down$log2.fold_change., decreasing=F),  ]
+    write.table(data_up, paste(name, "/Tophat/gene_exp_", name, "_selected_2fold_upregulated.diff", sep=""), row.names=F, sep="\t", na="", quote=F)    
+    write.table(data_down, paste(name, "/Tophat/gene_exp_", name, "_selected_2fold_downregulated.diff", sep=""), row.names=F, sep="\t", na="", quote=F)    
+    
+}
+name="E12.5_M_E12.5_W"
+twofold(name)
+
+name="E13.5_M_E13.5_W"
+twofold(name)
+
+name="E14.5_M_E14.5_W"
+twofold(name)
+
+
+gene_name<-function(name){
+    data1_up<-read.delim(paste(name, "/DEGseq/geneExp_", name, "_filtered_DEGseq_1.5fold_upregulated.txt", sep=""), header=T, sep="\t")
+    data1_up<-data1_up[order(data1_up$Log2Rat, decreasing=T), ]
+    data1_down<-read.delim(paste(name, "/DEGseq/geneExp_", name, "_filtered_DEGseq_1.5fold_downregulated.txt", sep=""), header=T, sep="\t")
+    data1_down<-data1_down[order(data1_down$Log2Rat, decreasing=F), ]
+    data2_up<-read.delim(paste(name, "/Tophat/gene_exp_", name, "_selected_1.5fold_symbol_upregulated.diff", sep=""), header=T, sep="\t")
+    data2_down<-read.delim(paste(name, "/Tophat/gene_exp_", name, "_selected_1.5fold_symbol_downregulated.diff", sep=""), header=T, sep="\t")
+    overlap_up<-read.delim(paste(name, "/overlap/geneExp_", name, "_overlapped_1.5fold_upregulated.txt", sep=''), header=T, sep="\t")
+    overlap_down<-read.delim(paste(name, "/overlap/geneExp_", name, "_overlapped_1.5fold_downregulated.txt", sep=''), header=T, sep="\t")
+
+    gene1_up<-toString(as.character(unique(data1_up$Symbol))[1:30])
+    gene1_up_count<-length(as.character(unique(data1_up$Symbol)))
+    gene1_down<-toString(as.character(unique(data1_down$Symbol))[1:30])
+    gene1_down_count<-length(as.character(unique(data1_down$Symbol)))
+    gene2_up<-toString(as.character(unique(data2_up$Symbol))[1:30])
+    gene2_up_count<-length(as.character(unique(data2_up$Symbol)))
+    gene2_down<-toString(as.character(unique(data2_down$Symbol))[1:30])
+    gene2_down_count<-length(as.character(unique(data2_down$Symbol)))
+    gene_overlap_up<-toString(as.character(unique(overlap_up$Symbol.x))[1:30])
+    gene_overlap_up_count<-length(as.character(unique(overlap_up$Symbol.x)))
+    gene_overlap_down<-toString(as.character(unique(overlap_down$Symbol.x))[1:30])
+    gene_overlap_down_count<-length(as.character(unique(overlap_down$Symbol.x)))
+    
+    gene<-data.frame(count=rbind(gene1_up_count, gene1_down_count, gene2_up_count, gene2_down_count, gene_overlap_up_count, gene_overlap_down_count), symbol=rbind(gene1_up, gene1_down, gene2_up, gene2_down, gene_overlap_up, gene_overlap_down))
+    write.table(gene, paste(name, "/unique_gene_name.txt", sep=''), row.names=T, sep="\t", na="", quote=F)    
+
+}
+
+name="E12.5_M_E12.5_W"
+gene_name(name)
+
+name="E13.5_M_E13.5_W"
+gene_name(name)
+
+name="E14.5_M_E14.5_W"
+gene_name(name)

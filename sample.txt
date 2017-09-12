@@ -1,0 +1,7 @@
+Group	Sample	Org	Type	Experiment	Method	Read1 	Read2	Splice_len	Win	Unique_align	alignment
+E12.5_W	E12.5_W	mouse	Reference	RNA-seq	SE	Sample_5/		49	1000	Y	bwa
+E12.5_M	E12.5_M	mouse	Case	RNA-seq	SE	Sample_6/		49	1000	Y	bwa
+E13.5_W	E13.5_W	mouse	Case	RNA-seq	SE	Sample_7/		49	1000	Y	bwa
+E13.5_M	E13.5_M	mouse	Case	RNA-seq	SE	Sample_8/		49	1000	Y	bwa
+E14.5_W	E14.5_W	mouse	Case	RNA-seq	SE	Sample_9/		49	1000	Y	bwa
+E14.5_M	E14.5_M	mouse	Case	RNA-seq	SE	Sample_10/		49	1000	Y	bwa

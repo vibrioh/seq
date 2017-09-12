@@ -1,0 +1,626 @@
+Gene Group 1	Enrichment Score: 12.947712657866255
+OFFICIAL_GENE_SYMBOL	Gene Name
+LOC298139	similar to RIKEN cDNA 2310003M01
+Rtn4ip1	reticulon 4 interacting protein 1
+Mut	methylmalonyl-Coenzyme A mutase
+Armc1	armadillo repeat containing 1
+
+Gene Group 2	Enrichment Score: 11.458138705513653
+OFFICIAL_GENE_SYMBOL	Gene Name
+Ivd	isovaleryl coenzyme A dehydrogenase
+Pars2	prolyl-tRNA synthetase 2, mitochondrial (putative)
+Ndufa10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10-like 1; NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10
+D2hgdh	D-2-hydroxyglutarate dehydrogenase
+Pcca	propionyl-coenzyme A carboxylase, alpha polypeptide
+Acad9	acyl-Coenzyme A dehydrogenase family, member 9
+Suclg2	succinate-CoA ligase, GDP-forming, beta subunit
+Mccc2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)
+Acadsb	acyl-Coenzyme A dehydrogenase, short/branched chain
+
+Gene Group 3	Enrichment Score: 10.90677217478139
+OFFICIAL_GENE_SYMBOL	Gene Name
+Tomm70a	translocase of outer mitochondrial membrane 70 homolog A (S. cerevisiae); similar to translocase of outer mitochondrial membrane 70 homolog A
+Cyb5b	cytochrome b5 type B (outer mitochondrial membrane)
+Slc25a15	solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15
+Slc25a38	solute carrier family 25, member 38
+Ppif	peptidylprolyl isomerase F (cyclophilin F)
+Slc25a29	solute carrier family 25, member 29
+Mtch2	mitochondrial carrier homolog 2 (C. elegans)
+Opa1	optic atrophy 1 homolog (human)
+Immt	inner membrane protein, mitochondrial
+Chchd3	coiled-coil-helix-coiled-coil-helix domain containing 3
+Mrpl17	mitochondrial ribosomal protein L17
+Gstk1	glutathione S-transferase kappa 1
+Sdhd	succinate dehydrogenase complex, subunit D, integral membrane protein
+Bdh1	3-hydroxybutyrate dehydrogenase, type 1
+Tomm22	translocase of outer mitochondrial membrane 22 homolog (yeast)
+Samm50	sorting and assembly machinery component 50 homolog (S. cerevisiae)
+Slc25a11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11
+Slc25a34	solute carrier family 25, member 34
+Timm50	translocase of inner mitochondrial membrane 50 homolog (S. cerevisiae)
+Sco1	SCO cytochrome oxidase deficient homolog 1 (yeast)
+Ndufb10	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10
+Slc25a10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10
+Letm1	leucine zipper-EF-hand containing transmembrane protein 1
+Apool	apolipoprotein O-like
+Mpst	mercaptopyruvate sulfurtransferase
+Tmem70	transmembrane protein 70
+Slc25a5	similar to solute carrier family 25, member 5; solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5
+Efhd1	EF-hand domain family, member D1
+Slc25a39	solute carrier family 25, member 39
+Oxa1l	oxidase assembly 1-like
+
+Gene Group 4	Enrichment Score: 9.252574072614872
+OFFICIAL_GENE_SYMBOL	Gene Name
+Oxct1	3-oxoacid CoA transferase 1; HEAT repeat family member 7B2
+Mrpl10	similar to mitochondrial ribosomal protein L10; mitochondrial ribosomal protein L10
+Mrps15	mitochondrial ribosomal protein S15
+Klhl30	kelch-like 30 (Drosophila)
+Mrps10	mitochondrial ribosomal protein S10
+Mrpl18	mitochondrial ribosomal protein L18
+Mrpl3	mitochondrial ribosomal protein L3
+Mrpl16	mitochondrial ribosomal protein L16
+Mrpl17	mitochondrial ribosomal protein L17
+Rpl3l	ribosomal protein L3-like
+Mrpl38	mitochondrial ribosomal protein L38
+Rplp1	similar to 60S acidic ribosomal protein P1; ribosomal protein, large, P1
+Mrpl34	mitochondrial ribosomal protein L34
+Mrpl43	mitochondrial ribosomal protein L43
+mrpl9	mitochondrial ribosomal protein L9
+Mrps18a	mitochondrial ribosomal protein S18A
+Mrpl40	mitochondrial ribosomal protein L40; similar to mitochondrial ribosomal protein L40
+Pitrm1	pitrilysin metallopeptidase 1
+
+Gene Group 5	Enrichment Score: 6.403501760077961
+OFFICIAL_GENE_SYMBOL	Gene Name
+Sbk2	SH3-binding domain kinase family, member 2
+Ak2	similar to Adenylate kinase 2; adenylate kinase 2; hypothetical LOC314258
+Grpel1	GrpE-like 1, mitochondrial
+Ttl	tubulin tyrosine ligase
+Myh14	myosin, heavy chain 14
+Timm44	translocase of inner mitochondrial membrane 44 homolog (yeast)
+Cct6a	similar to chaperonin subunit 6a (zeta); chaperonin containing Tcp1, subunit 6A (zeta 1)
+Pak4	p21 protein (Cdc42/Rac)-activated kinase 4
+Plk4	polo-like kinase 4 (Drosophila)
+Rrm1	ribonucleotide reductase M1; similar to Ribonucleotide reductase M1; ribonucleotide reductase M1, pseudogene 1
+Dyrk2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2
+RGD1564899	similar to chromosome 10 open reading frame 71
+Mcm5	minichromosome maintenance complex component 5
+Thnsl1	threonine synthase-like 1 (S. cerevisiae)
+Hspa9	similar to Stress-70 protein, mitochondrial precursor (75 kDa glucose regulated protein) (GRP 75) (Peptide-binding protein 74) (PBP74) (MTHSP70) (Mortalin); heat shock protein 9; similar to Stress-70 protein, mitochondrial precursor (75 kDa glucose-regulated protein) (GRP 75) (Peptide-binding protein 74) (PBP74) (P66 MOT) (Mortalin)
+Aars2	alanyl-tRNA synthetase 2, mitochondrial (putative)
+Mvk	mevalonate kinase
+Qrsl1	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1
+Sucla2	succinate-CoA ligase, ADP-forming, beta subunit
+Pdk2	pyruvate dehydrogenase kinase, isozyme 2
+Pcca	propionyl-coenzyme A carboxylase, alpha polypeptide
+Kif22	kinesin family member 22
+Ret	ret proto-oncogene
+Mcm3	similar to DNA replication licensing factor MCM3 (DNA polymerase alpha holoenzyme-associated protein P1) (P1-MCM3); minichromosome maintenance complex component 3
+Phkg1	phosphorylase kinase gamma 1
+Mlh3	mutL homolog 3 (E. coli)
+Kif16b	kinesin family member 16B
+Map2k4	mitogen activated protein kinase kinase 4
+Epha3	Eph receptor A3
+Atad1	ATPase family, AAA domain containing 1
+Timm8a1	translocase of inner mitochondrial membrane 8 homolog a1 (yeast)
+Abcf1	ATP-binding cassette, sub-family F (GCN20), member 1
+Ddr1	discoidin domain receptor tyrosine kinase 1
+Pc	pyruvate carboxylase
+Kif11	kinesin family member 11
+Ndufa10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10-like 1; NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10
+Farsb	phenylalanyl-tRNA synthetase, beta subunit
+Ckb	creatine kinase, brain
+Acsf2	acyl-CoA synthetase family member 2
+Dlat	dihydrolipoamide S-acetyltransferase
+Gars	glycyl-tRNA synthetase
+Ola1	Obg-like ATPase 1
+Riok2	RIO kinase 2 (yeast)
+Uck2	uridine-cytidine kinase 2
+Dcakd	dephospho-CoA kinase domain containing
+Tars2	threonyl-tRNA synthetase 2, mitochondrial (putative)
+Mapkapk2	mitogen-activated protein kinase-activated protein kinase 2
+Mccc2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)
+Amhr2	anti-Mullerian hormone receptor, type II
+Clpb	ClpB caseinolytic peptidase B homolog (E. coli)
+Lmtk2	lemur tyrosine kinase 2
+Dars2	aspartyl-tRNA synthetase 2 (mitochondrial)
+Oas2	2'-5'-oligoadenylate synthetase 2, 69/71kDa
+Fars2	phenylalanyl-tRNA synthetase 2, mitochondrial
+Prkaa2	protein kinase, AMP-activated, alpha 2 catalytic subunit
+Fign	fidgetin
+Pdk1	pyruvate dehydrogenase kinase, isozyme 1
+Myo18b	myosin XVIIIb
+Chchd4	coiled-coil-helix-coiled-coil-helix domain containing 4; similar to coiled-coil-helix-coiled-coil-helix domain containing 4
+Dnah11	dynein, axonemal, heavy chain 11
+Afg3l1	AFG3(ATPase family gene 3)-like 1 (S. cerevisiae)
+Erbb4	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)
+Actr3b	ARP3 actin-related protein 3 homolog B (yeast)
+Hspa4l	heat shock protein 4 like
+Kif18b	kinesin family member 18B
+Tnni3k	TNNI3 interacting kinase
+Pbk	PDZ binding kinase
+Dyrk3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3
+Lace1	lactation elevated 1
+Mtx2	metaxin 2
+Pars2	prolyl-tRNA synthetase 2, mitochondrial (putative)
+Timm10	translocase of inner mitochondrial membrane 10 homolog (yeast)
+Mapk6	mitogen-activated protein kinase 6
+Prkce	protein kinase C, epsilon
+Dnah5	dynein, axonemal, heavy chain 5
+
+Gene Group 6	Enrichment Score: 3.58637781632771
+OFFICIAL_GENE_SYMBOL	Gene Name
+Rasd2	RASD family, member 2
+Eral1	Era (G-protein)-like 1 (E. coli)
+Rab12	RAB12, member RAS oncogene family
+Rap2a	RAS related protein 2a?
+Rala	v-ral simian leukemia viral oncogene homolog A (ras related)
+Rab21	RAB21, member RAS oncogene family
+Arl8b	ADP-ribosylation factor-like 8B
+Arl1	ADP-ribosylation factor-like 1
+Nkiras2	NFKB inhibitor interacting Ras-like 2
+Arhgap5	Rho GTPase activating protein 5
+Rasl11b	RAS-like family 11 member B
+Sar1b	SAR1 homolog B (S. cerevisiae)
+Gfm1	G elongation factor, mitochondrial 1
+Rras2	related RAS viral (r-ras) oncogene homolog 2; similar to Related RAS viral (r-ras) oncogene homolog 2
+Rragd	Ras-related GTP binding D
+Ehd4	EH-domain containing 4
+Rab3a	RAB3A, member RAS oncogene family
+Gtpbp10	GTP-binding protein 10 (putative)
+Rab10	RAB10, member RAS oncogene family
+Eef1a2	eukaryotic translation elongation factor 1 alpha 2
+
+Gene Group 7	Enrichment Score: 2.4315398538351625
+OFFICIAL_GENE_SYMBOL	Gene Name
+Ampd3	adenosine monophosphate deaminase 3
+Atic	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase; similar to 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase
+Prps1	phosphoribosyl pyrophosphate synthetase 1; phosphoribosyl pyrophosphate synthetase 1-like 1
+Gart	phosphoribosylglycinamide formyltransferase
+
+Gene Group 8	Enrichment Score: 2.268781931471806
+OFFICIAL_GENE_SYMBOL	Gene Name
+Dnajc16	DnaJ (Hsp40) homolog, subfamily C, member 16
+Dnaja4	DnaJ (Hsp40) homolog, subfamily A, member 4
+Dnajc18	DnaJ (Hsp40) homolog, subfamily C, member 18
+Dnajb5	DnaJ (Hsp40) homolog, subfamily B, member 5
+Dnajc30	DnaJ (Hsp40) homolog, subfamily C, member 30
+Dnajc12	DnaJ (Hsp40) homolog, subfamily C, member 12
+
+Gene Group 9	Enrichment Score: 2.1823447116094545
+OFFICIAL_GENE_SYMBOL	Gene Name
+Gbe1	glucan (1,4-alpha-), branching enzyme 1
+Pygb	phosphorylase, glycogen; brain
+Phkg1	phosphorylase kinase gamma 1
+Gys1	glycogen synthase 1, muscle
+
+Gene Group 10	Enrichment Score: 2.130451538350213
+OFFICIAL_GENE_SYMBOL	Gene Name
+Tuba8	tubulin, alpha 8
+Tuba4a	tubulin, alpha 4A
+Tubg1	tubulin, gamma 1
+Tuba1b	tubulin, alpha 3B; similar to alpha tubulin; tubulin, alpha 3A; similar to Tubulin alpha-2 chain (Alpha-tubulin 2); tubulin, alpha 1B; similar to tubulin, alpha 1; tubulin, alpha 1A
+Kif18b	kinesin family member 18B
+
+Gene Group 11	Enrichment Score: 2.1160352933001545
+OFFICIAL_GENE_SYMBOL	Gene Name
+Prkar1a	protein kinase, cAMP dependent regulatory, type I, alpha
+Prkar2a	protein kinase, cAMP dependent regulatory, type II alpha
+Prkaca	similar to CG2662-PA; protein kinase, cAMP-dependent, catalytic, alpha
+Prkar1b	protein kinase, cAMP dependent regulatory, type I, beta
+
+Gene Group 12	Enrichment Score: 1.9797906561379612
+OFFICIAL_GENE_SYMBOL	Gene Name
+Hamp	hepcidin antimicrobial peptide
+Pgm1	phosphoglucomutase 1
+RGD1310507	similar to RIKEN cDNA 1300017J02
+C3ar1	complement component 3a receptor 1
+Trdn	triadin
+Jph2	junctophilin 2
+Rgn	regucalcin (senescence marker protein-30)
+Sypl2	synaptophysin-like 2
+Slc24a3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3
+
+Gene Group 13	Enrichment Score: 1.953457663981054
+OFFICIAL_GENE_SYMBOL	Gene Name
+Kpna3	karyopherin (importin) alpha 3
+Kpna1	karyopherin (importin) alpha 1
+Kpnb1	karyopherin (importin) beta 1
+Kpna2	similar to karyopherin (importin) alpha 2; karyopherin (importin) alpha 2
+
+Gene Group 14	Enrichment Score: 1.8700057098065797
+OFFICIAL_GENE_SYMBOL	Gene Name
+Nudt18	nudix (nucleoside diphosphate linked moiety X)-type motif 18
+Nudt3	nudix (nucleoside diphosphate linked moiety X)-type motif 3
+Clybl	citrate lyase beta like
+Phospho2	phosphatase, orphan 2
+Pdxp	pyridoxal (pyridoxine, vitamin B6) phosphatase
+Cpped1	calcineurin-like phosphoesterase domain containing 1
+Nudt19	nudix (nucleoside diphosphate linked moiety X)-type motif 19
+
+Gene Group 15	Enrichment Score: 1.732963044377615
+OFFICIAL_GENE_SYMBOL	Gene Name
+Zfp280b	similar to suppressor of hairy wing homolog 2; zinc finger protein 280b
+Tom1	target of myb1 homolog (chicken)
+Mtx2	metaxin 2
+Syngr2	synaptogyrin 2
+
+Gene Group 16	Enrichment Score: 1.534733568130123
+OFFICIAL_GENE_SYMBOL	Gene Name
+Optn	optineurin
+Zfp280b	similar to suppressor of hairy wing homolog 2; zinc finger protein 280b
+Sec24d	SEC24 family, member D (S. cerevisiae)
+Ap1s2	adaptor-related protein complex 1, sigma 2 subunit
+Ap1b1	adaptor-related protein complex 1, beta 1 subunit
+
+Gene Group 17	Enrichment Score: 1.473310807668189
+OFFICIAL_GENE_SYMBOL	Gene Name
+Polr3d	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa
+Nfix	nuclear factor I/X (CCAAT-binding transcription factor)
+Med20	similar to ubiquitin specific protease 49; mediator complex subunit 20
+Gtf2e1	general transcription factor IIE, polypeptide 1, alpha
+Taf4b	TAF4B RNA polymerase II, TATA box binding protein (TBP)-associated factor
+Tead1	TEA domain family member 1
+Creg1	cellular repressor of E1A-stimulated genes 1
+Snai3	snail homolog 3 (Drosophila)
+
+Gene Group 18	Enrichment Score: 1.2258120883605428
+OFFICIAL_GENE_SYMBOL	Gene Name
+Atp6v1d	ATPase, H+ transporting, lysosomal V1 subunit D
+Atp9a	ATPase, class II, type 9A
+Atp1b1	ATPase, Na+/K+ transporting, beta 1 polypeptide
+Atp6v1e1	ATPase, H+ transporting, lysosomal V1 subunit E1
+Atp1a3	ATPase, Na+/K+ transporting, alpha 3 polypeptide
+Atp13a3	hypothetical protein LOC678704; ATPase type 13A3
+Atp6v1b2	ATPase, H transporting, lysosomal V1 subunit B2
+Atp6v0e2	ATPase, H+ transporting V0 subunit e2
+Slc25a13	solute carrier family 25, member 13 (citrin)
+Atp5s	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit s (factor B)
+Atp1a2	ATPase, Na+/K+ transporting, alpha 2 polypeptide
+
+Gene Group 19	Enrichment Score: 1.2134546180950536
+OFFICIAL_GENE_SYMBOL	Gene Name
+Bok	BCL2-related ovarian killer
+Diablo	diablo homolog (Drosophila)
+Bag3	Bcl2-associated athanogene 3
+Cradd	CASP2 and RIPK1 domain containing adaptor with death domain
+Rnf7	ring finger protein 7
+
+Gene Group 20	Enrichment Score: 1.207941831924816
+OFFICIAL_GENE_SYMBOL	Gene Name
+Nhp2l1	NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae)
+Npm3	nucleophosmin/nucleoplasmin, 3
+Imp4	IMP4, U3 small nucleolar ribonucleoprotein, homolog (yeast)
+Bysl	bystin-like
+
+Gene Group 21	Enrichment Score: 1.2009375339298272
+OFFICIAL_GENE_SYMBOL	Gene Name
+Ube3c	ubiquitin protein ligase E3C
+Cdc34	cell division cycle 34 homolog (S. cerevisiae)
+Cul2	cullin 2
+Ube2ql1	similar to CG4502-PA, isoform A
+
+Gene Group 22	Enrichment Score: 1.1042437794117015
+OFFICIAL_GENE_SYMBOL	Gene Name
+Adamtsl1	ADAMTS-like 1
+Tgfbi	transforming growth factor, beta induced
+Lamc3	laminin gamma 3
+Lama4	laminin, alpha 4
+Frem2	Fras1 related extracellular matrix protein 2
+
+Gene Group 23	Enrichment Score: 1.0460864788472288
+OFFICIAL_GENE_SYMBOL	Gene Name
+Adra1d	adrenergic, alpha-1D-, receptor
+Adra1a	adrenergic, alpha-1A-, receptor
+Ntsr2	neurotensin receptor 2
+Adra1b	adrenergic, alpha-1B-, receptor
+Adrb1	adrenergic, beta-1-, receptor
+
+Gene Group 24	Enrichment Score: 1.0410022993025863
+OFFICIAL_GENE_SYMBOL	Gene Name
+Entpd6	ectonucleoside triphosphate diphosphohydrolase 6
+Galnt1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 1 (GalNAc-T1)
+Galnt2	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 2 (GalNAc-T2)
+Ssr1	signal sequence receptor, alpha
+LOC501189	similar to CMP-N-acetylneuraminate-poly-alpha-2,8-sialyltransferase (Alpha-2,8-sialyltransferase 8D) (ST8Sia IV) (Polysialyltransferase-1); ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4
+St3gal5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5
+Wbscr17	Williams-Beuren syndrome chromosome region 17 homolog (human)
+Lman1	lectin, mannose-binding, 1
+St3gal3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3
+Sgms2	sphingomyelin synthase 2
+Chst1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1
+B3gat1	beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P)
+
+Gene Group 25	Enrichment Score: 0.8642254420559966
+OFFICIAL_GENE_SYMBOL	Gene Name
+Lcp1	lymphocyte cytosolic protein 1
+Cetn2	centrin 2
+Myl7	myosin, light chain 7, regulatory
+Ppp2r3a	protein phosphatase 2 (formerly 2A), regulatory subunit B'', alpha
+
+Gene Group 26	Enrichment Score: 0.8079636796041578
+OFFICIAL_GENE_SYMBOL	Gene Name
+Plcl2	phospholipase C-like 2
+Dsg2	desmoglein 2
+Cdh20	cadherin 20
+Pcdhgb6	protocadherin gamma subfamily B, 6
+Slc25a12	solute carrier family 25 (mitochondrial carrier, Aralar), member 12
+Pcdh7	protocadherin 7
+Ppp2r3a	protein phosphatase 2 (formerly 2A), regulatory subunit B'', alpha
+
+Gene Group 27	Enrichment Score: 0.8075460953075052
+OFFICIAL_GENE_SYMBOL	Gene Name
+Kcnj11	potassium inwardly rectifying channel, subfamily J, member 11
+Kcnn3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3
+Kcng2	potassium voltage-gated channel, subfamily G, member 2
+Hcn2	hyperpolarization activated cyclic nucleotide-gated potassium channel 2
+Kcnj12	potassium inwardly-rectifying channel, subfamily J, member 12
+Kcna7	potassium voltage-gated channel, shaker-related subfamily, member 7
+Kctd1	potassium channel tetramerisation domain containing 1
+Kcnip2	Kv channel-interacting protein 2; A-type potassium channel modulatory protein 2
+Cacng4	calcium channel, voltage-dependent, gamma subunit 4
+Kcnn2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2
+Kcnk2	potassium channel, subfamily K, member 2
+Kcna2	potassium voltage-gated channel, shaker-related subfamily, member 2
+Kcnj3	potassium inwardly-rectifying channel, subfamily J, member 3
+Tmem38a	transmembrane protein 38a
+Slc24a3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3
+Cacng6	calcium channel, voltage-dependent, gamma subunit 6
+Scn4b	sodium channel, type IV, beta
+Kcnq1	potassium voltage-gated channel, subfamily Q, member 1
+
+Gene Group 28	Enrichment Score: 0.7701621638510942
+OFFICIAL_GENE_SYMBOL	Gene Name
+Lonrf2	LON peptidase N-terminal domain and ring finger 2
+Fbxo40	F-box protein 40
+Thop1	thimet oligopeptidase 1
+Rtn4ip1	reticulon 4 interacting protein 1
+Nol11	nucleolar protein 11
+Adamtsl1	ADAMTS-like 1
+Nsmce1	non-SMC element 1 homolog (S. cerevisiae)
+Nudt18	nudix (nucleoside diphosphate linked moiety X)-type motif 18
+Rnf26	ring finger protein 26
+Trim7	tripartite motif-containing 7
+Zfp280b	similar to suppressor of hairy wing homolog 2; zinc finger protein 280b
+Dnaja4	DnaJ (Hsp40) homolog, subfamily A, member 4
+Lims2	LIM and senescent cell antigen like domains 2
+Amz2	archaelysin family metallopeptidase 2
+March5	membrane-associated ring finger (C3HC4) 5
+Dtna	dystrobrevin alpha
+Mmp15	matrix metallopeptidase 15
+Loxl1	lysyl oxidase-like 1
+Zdhhc13	zinc finger, DHHC-type containing 13
+Npepps	aminopeptidase puromycin sensitive
+Ptgr1	prostaglandin reductase 1
+Xpnpep3	X-prolyl aminopeptidase (aminopeptidase P) 3, putative
+Loxl2	lysyl oxidase-like 2
+Rnf150	ring finger protein 150
+Cpped1	calcineurin-like phosphoesterase domain containing 1
+Zdhhc7	zinc finger, DHHC-type containing 7
+Napepld	N-acyl phosphatidylethanolamine phospholipase D
+Pdzrn3	PDZ domain containing RING finger 3
+
+Gene Group 29	Enrichment Score: 0.6993533215002492
+OFFICIAL_GENE_SYMBOL	Gene Name
+Ube2d1	ubiquitin-conjugating enzyme E2D 1, UBC4/5 homolog (yeast)
+Bub1b	budding uninhibited by benzimidazoles 1 homolog, beta (S. cerevisiae)
+Psmd1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+Psmd14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14
+
+Gene Group 30	Enrichment Score: 0.5730296318988777
+OFFICIAL_GENE_SYMBOL	Gene Name
+Rnf26	ring finger protein 26
+Nhlrc1	NHL repeat containing 1
+Rnf128	hypothetical protein LOC680663; ring finger protein 128
+Rbck1	RanBP-type and C3HC4-type zinc finger containing 1
+Pdzrn3	PDZ domain containing RING finger 3
+Mgrn1	mahogunin, ring finger 1
+
+Gene Group 31	Enrichment Score: 0.5030997337079929
+OFFICIAL_GENE_SYMBOL	Gene Name
+Nap1l4	nucleosome assembly protein 1-like 4
+Hist1h2bl	histone cluster 1, H2bl; similar to H2B histone family, member S; histone cluster 3, H2bb; similar to histone 3, H2bb; histone cluster 1, H2bh; histone cluster 2, H2bb; histone cluster 1, H2bc; similar to Histone H2B 291B
+Nap1l2	nucleosome assembly protein 1-like 2
+Mcm2	similar to DNA replication licensing factor MCM2 (Minichromosome maintenance protein 2 homolog) (Nuclear protein BM28); minichromosome maintenance complex component 2
+Hist1h4b	histone cluster 2, H4; similar to germinal histone H4 gene; histone cluster 1, H4m; histone H4 variant H4-v.1; histone cluster 1, H4b
+Asf1b	ASF1 anti-silencing function 1 homolog B (S. cerevisiae)
+Tspyl5	TSPY-like 5
+
+Gene Group 32	Enrichment Score: 0.47081310409366756
+OFFICIAL_GENE_SYMBOL	Gene Name
+Ece2	endothelin-converting enzyme 2
+Acy1	aminoacylase 1
+Npepps	aminopeptidase puromycin sensitive
+Mmp24	matrix metallopeptidase 24
+Lonrf2	LON peptidase N-terminal domain and ring finger 2
+Afg3l1	AFG3(ATPase family gene 3)-like 1 (S. cerevisiae)
+Amz2	archaelysin family metallopeptidase 2
+Cpe	carboxypeptidase E
+Thop1	thimet oligopeptidase 1
+Cpa3	carboxypeptidase A3, mast cell
+Mipep	mitochondrial intermediate peptidase
+Mmp15	matrix metallopeptidase 15
+Adamtsl1	ADAMTS-like 1
+
+Gene Group 33	Enrichment Score: 0.4302467922760257
+OFFICIAL_GENE_SYMBOL	Gene Name
+Nr3c1	nuclear receptor subfamily 3, group C, member 1
+Nfix	nuclear factor I/X (CCAAT-binding transcription factor)
+Gata5	GATA binding protein 5
+Ar	androgen receptor
+Egr1	early growth response 1
+Ppara	peroxisome proliferator activated receptor alpha
+Esrrb	estrogen-related receptor beta
+Hivep1	human immunodeficiency virus type I enhancer binding protein 1
+Thrb	thyroid hormone receptor beta
+Gata4	GATA binding protein 4
+Zfp367	zinc finger protein 367
+Vdr	vitamin D (1,25- dihydroxyvitamin D3) receptor
+
+Gene Group 34	Enrichment Score: 0.41596800452635174
+OFFICIAL_GENE_SYMBOL	Gene Name
+Gpc1	glypican 1
+Gfra1	GDNF family receptor alpha 1
+Rtn4rl1	reticulon 4 receptor-like 1
+Cd99l2	CD99 molecule-like 2
+Hfe2	hemochromatosis type 2 (juvenile) (human homolog)
+
+Gene Group 35	Enrichment Score: 0.316077496639965
+OFFICIAL_GENE_SYMBOL	Gene Name
+Rasgrp3	RAS guanyl releasing protein 3 (calcium and DAG-regulated)
+Iqgap3	IQ motif containing GTPase activating protein 3
+Smap2	small ArfGAP2
+Dnmbp	dynamin binding protein
+Tbc1d10c	TBC1 domain family, member 10C
+
+Gene Group 36	Enrichment Score: 0.29978957066189277
+OFFICIAL_GENE_SYMBOL	Gene Name
+Fbxo32	F-box protein 32
+Ubac1	UBA domain containing 1
+Ddb1	damage-specific DNA binding protein 1
+Mgrn1	mahogunin, ring finger 1
+Rad23b	RAD23 homolog B (S. cerevisiae)
+Cdca3	similar to cell division cycle associated 3; cell division cycle associated 3
+Ufd1l	ubiquitin fusion degradation 1 like (yeast)
+Fbxo17	F-box protein 17
+Usp15	ubiquitin specific peptidase 15
+Fem1a	feminization 1 homolog a (C. elegans)
+
+Gene Group 37	Enrichment Score: 0.2898383069369048
+OFFICIAL_GENE_SYMBOL	Gene Name
+Slit2	slit homolog 2 (Drosophila)
+Amigo1	adhesion molecule with Ig like domain 1
+Robo1	roundabout homolog 1 (Drosophila); similar to roundabout homolog 1
+Nrp2	neuropilin 2
+Cntn2	contactin 2 (axonal)
+
+Gene Group 38	Enrichment Score: 0.23716414063092528
+OFFICIAL_GENE_SYMBOL	Gene Name
+Chaf1b	chromatin assembly factor 1, subunit B (p60)
+Eml2	echinoderm microtubule associated protein like 2
+Wdr7	WD repeat domain 7
+Gnb5	guanine nucleotide binding protein (G protein), beta 5
+Plaa	phospholipase A2, activating protein
+Wsb2	WD repeat and SOCS box-containing 2
+Wdr1	WD repeat domain 1
+Ahi1	Abelson helper integration site 1
+
+Gene Group 39	Enrichment Score: 0.21205408314176677
+OFFICIAL_GENE_SYMBOL	Gene Name
+Dnajb5	DnaJ (Hsp40) homolog, subfamily B, member 5
+Foxn3	forkhead box N3
+Aes	amino-terminal enhancer of split
+Hey2	hairy/enhancer-of-split related with YRPW motif 2
+Smyd1	SET and MYND domain containing 1
+Crym	crystallin, mu
+Cux1	similar to CCAAT displacement protein isoform b; cut-like homeobox 1
+Sox6	SRY (sex determining region Y)-box 6
+Bhlhe40	basic helix-loop-helix family, member e40
+Nr0b2	nuclear receptor subfamily 0, group B, member 2
+Hopx	HOP homeobox
+Hivep1	human immunodeficiency virus type I enhancer binding protein 1
+Rcor2	REST corepressor 2; similar to REST corepressor 2
+Hr	hairless
+
+Gene Group 40	Enrichment Score: 0.17435967284117823
+OFFICIAL_GENE_SYMBOL	Gene Name
+Ppargc1b	peroxisome proliferator-activated receptor gamma, coactivator 1 beta
+Nfix	nuclear factor I/X (CCAAT-binding transcription factor)
+Mafa	v-maf musculoaponeurotic fibrosarcoma oncogene homolog A (avian)
+Mrpl12	mitochondrial ribosomal protein L12
+E2f1	E2F transcription factor 1
+Gata5	GATA binding protein 5
+Zbtb7b	zinc finger and BTB domain containing 7B
+Meis2	Meis homeobox 2
+Sox6	SRY (sex determining region Y)-box 6
+Aatf	apoptosis antagonizing transcription factor
+Cited4	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 4
+LOC499235	LRRGT00141
+Murc	muscle-restricted coiled-coil protein
+Tead1	TEA domain family member 1
+Bcl11b	B-cell CLL/lymphoma 11B (zinc finger protein)
+
+Gene Group 41	Enrichment Score: 0.07355616221908486
+OFFICIAL_GENE_SYMBOL	Gene Name
+Mcpt1	mast cell protease 1
+Prep	prolyl endopeptidase
+Klk10	kallikrein related-peptidase 10
+Prss23	protease, serine, 23
+
+Gene Group 42	Enrichment Score: 0.04561696259416001
+OFFICIAL_GENE_SYMBOL	Gene Name
+Tmem98	transmembrane protein 98
+Entpd6	ectonucleoside triphosphate diphosphohydrolase 6
+Gde1	glycerophosphodiester phosphodiesterase 1
+Fndc5	fibronectin type III domain containing 5
+Tas1r2	taste receptor, type 1, member 2
+Ssr1	signal sequence receptor, alpha
+Mospd1	similar to motile sperm domain containing 1; motile sperm domain containing 1
+Slc16a10	solute carrier family 16 (monocarboxylic acid transporters), member 10
+Gcgr	glucagon receptor
+Tmem196	transmembrane protein 196
+Faim3	Fas apoptotic inhibitory molecule 3
+Slco3a1	solute carrier organic anion transporter family, member 3a1
+Gja3	gap junction protein, alpha 3
+Vezt	vezatin, adherens junctions transmembrane protein
+Clec2l	C-type lectin domain family 2, member L
+RGD1311946	similar to RIKEN cDNA 1810055G02
+Slc20a2	solute carrier family 20 (phosphate transporter), member 2
+Adra1d	adrenergic, alpha-1D-, receptor
+Tmem177	transmembrane protein 177
+Gpr157	G protein-coupled receptor 157
+Slc22a23	solute carrier family 22, member 23
+Fzd1	frizzled homolog 1 (Drosophila)
+Tmem14c	transmembrane protein 14C
+Chrm2	cholinergic receptor, muscarinic 2
+Gypc	glycophorin C (Gerbich blood group)
+Cdh20	cadherin 20
+Mpeg1	macrophage expressed gene 1
+Tmem50b	transmembrane protein 50B
+Mtch2	mitochondrial carrier homolog 2 (C. elegans)
+S1pr2	sphingosine-1-phosphate receptor 2
+Myadm	myeloid-associated differentiation marker
+Yipf3	Yip1 domain family, member 3
+Fzd5	frizzled homolog 5 (Drosophila)
+Tm2d2	TM2 domain containing 2
+Slc16a1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)
+Nup210	nucleoporin 210
+Ankh	ankylosis, progressive homolog (mouse)
+Ppapdc3	phosphatidic acid phosphatase type 2 domain containing 3
+Tmem109	transmembrane protein 109
+Pxmp2	peroxisomal membrane protein 2
+Syngr2	synaptogyrin 2
+Myadml2	myeloid-associated differentiation marker-like 2
+Sctr	secretin receptor
+Tmem135	transmembrane protein 135
+Sstr4	somatostatin receptor 4
+Higd1a	HIG1 hypoxia inducible domain family, member 1A
+Cd99l2	CD99 molecule-like 2
+C3ar1	complement component 3a receptor 1
+Rpn2	ribophorin II
+Dnajc16	DnaJ (Hsp40) homolog, subfamily C, member 16
+Slc4a1	solute carrier family 4 (anion exchanger), member 1
+Ntsr2	neurotensin receptor 2
+Ormdl3	ORM1-like 3 (S. cerevisiae)
+Slc41a3	solute carrier family 41, member 3
+Tmem199	transmembrane protein 199
+Parm1	castration induced prostatic apoptosis-related protein 1
+Aplnr	apelin receptor
+Tmem41b	transmembrane protein 41B
+Tspan3	tetraspanin 3
+Tmem218	transmembrane protein 218
+
+Gene Group 43	Enrichment Score: 0.008066890187141289
+OFFICIAL_GENE_SYMBOL	Gene Name
+Olfml1	olfactomedin-like 1
+Metrnl	meteorin, glial cell differentiation regulator-like
+Lgals3bp	lectin, galactoside-binding, soluble, 3 binding protein
+Stc2	stanniocalcin 2
+Epdr1	ependymin related protein 1 (zebrafish)
+Pcolce	procollagen C-endopeptidase enhancer
+Clec11a	C-type lectin domain family 11, member a
+Fndc1	fibronectin type III domain containing 1
+Prss23	protease, serine, 23
+Cdnf	arginine-rich, mutated in early stage tumors-like 1
+

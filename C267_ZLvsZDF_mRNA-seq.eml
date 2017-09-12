@@ -1,0 +1,106 @@
+Content-Type: multipart/mixed; boundary="===============2151062758500236532=="
+MIME-Version: 1.0
+Subject: QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat
+From: bino.mathew@mssm.edu
+To: bino.mathew@mssm.edu, panchajanya.deshpande@mssm.edu, ming.xue@mssm.edu,
+	yumi.kasai@mssm.edu
+
+--===============2151062758500236532==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+This data is ready to send.
+To regenerate this email, use these arguments:
+/sc/orga/scratch/shahh06/GCF/outgoing/ProductionQC/QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat/ProjectSettings.csv crap
+
+--===============2151062758500236532==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+Content-Type: message/rfc822;
+
+Content-Type: multipart/mixed; boundary="===============5967323069885015195=="
+MIME-Version: 1.0
+Subject: QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat
+From: Genomics Core <genomics_core@mssm.edu>
+To: jun.hu@mssm.edu, fadi.akar@mssm.edu
+Bcc: Genomics Core <genomics_core@mssm.edu>
+
+--===============5967323069885015195==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your data is available for ONLY 30 DAYS through the following link
+https://shahh06.u.hpc.mssm.edu/outgoing/QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat
+
+username: dataAccess
+password: d@t@
+ 
+The data is also available on the file-system on Minerva.
+[please use this path if you want to directly access the data on Minerva]
+/sc/orga/scratch/shahh06/GCF/outgoing/ProductionQC/QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat
+
+If you are having trouble accessing the files on minerva please go to the following link to grant yourself or others permissions:
+https://wangy33.u.hpc.mssm.edu/dashboard/runs/change_permissions/eyVVyRwKjKsfPCOCbzWyUw/
+
+
+The data will be available for the next 30 days, after which the data will be purged from our systems.
+For user-prepared libraries, the demultiplexing summary report is attached for your reference.
+For core-prepared libraries, the demultiplexing and relevant QC reports are attached for your reference.
+
+Sample handling policies
+Please contact us immediately if you want to retrieve all remaining samples (RNA/DNA/libraries).
+All libraries will be disposed 6 months after sequencing.
+All remaining DNA/RNA submitted for library preparation will be disposed 6 months after sequencing.
+
+For funding purposes, please acknowledge the Genomics Core Facility in all publications that include data derived from the facility.
+
+Thank you for using the Genomics Core Facility at the Icahn School of Medicine at Mount Sinai.
+
+--===============5967323069885015195==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="Summary_Lore_Run4_C267_ZLvsZDF_mRNA-seq.csv"; 
+Content-Type: text/csv; name="Summary_Lore_Run4_C267_ZLvsZDF_mRNA-seq.csv";
+
+TGFuZSxQcm9qZWN0LFNhbXBsZSxCYXJjb2RlIHNlcXVlbmNlLFBGIFJlYWRzLCUgb2YgdGhlIGxh
+bmUsJSBQZXJmZWN0IGJhcmNvZGUsJSBPbmUgbWlzbWF0Y2ggYmFyY29kZSxZaWVsZCAoTWJhc2Vz
+KSwlIFBGIFJlYWRzLCUgPj0gUTMwIGJhc2VzLE1lYW4gUXVhbGl0eSBTY29yZQo4LEMyNjdfWkx2
+c1pERl9tUk5BLXNlcSxDMSxDR0FUR1QsMjQwNTU4MTAwLDM5LjUxLDk0Ljg5LDUuMTEsMTIwMjgs
+MTAwLjAwLDg4Ljc2LDM2Ljg2CjgsQzI2N19aTHZzWkRGX21STkEtc2VxLEMyLEdBVENBRywxMTY0
+Nzk4ODgsMTkuMTMsOTUuNzIsNC4yOCw1ODI0LDEwMC4wMCw4OC4zMywzNi43NAo4LEMyNjdfWkx2
+c1pERl9tUk5BLXNlcSxEMSxDVFRHVEEsMTI0MjQ2ODgyLDIwLjQxLDk1LjIzLDQuNzcsNjIxMiwx
+MDAuMDAsODguNTQsMzYuODAKOCxDMjY3X1pMdnNaREZfbVJOQS1zZXEsRDIsVEFBVENHLDEwNTE3
+MDE1MCwxNy4yNyw5NS4yNCw0Ljc2LDUyNTksMTAwLjAwLDg4LjQ4LDM2Ljc4Cg==
+
+--===============5967323069885015195==
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat.RNAQC.csv";
+Content-Type: text/csv;
+	name="QC_L4.C267_ZLvsZDF_mRNA-seq.SE.RNASeqPolyA.RAPiD.Rat.RNAQC.csv";
+
+Y250LElELFRvdGFsUmVhZHMsTWFwcGVkLEdlbmVzIERldGVjdGVkLFRyYW5zY3JpcHRzIERldGVj
+dGVkLEFsaWdubWVudFJhdGUsSW50cmFnZW5pYyBSYXRlLEludHJvbmljIFJhdGUsSW50ZXJnZW5p
+YyBSYXRlLEV4cHJlc3Npb24gUHJvZmlsaW5nIEVmZmljaWVuY3ksclJOQSByYXRlCjEsQzEsMTIw
+Mjc5MDUwLDEwODQ1OTc4MCwxMTk4OCwxMjUyMSwwLjkwMTczNDU5MTM1MjM1OSwwLjUzOTg4MTEs
+MC4xMTU0NzM5LDAuNDU5ODg0ODgsMC40MjQ0MDcyLDAuMDkxNzI2MTkKMixDMiw1ODIzOTk0NCw1
+MjE1MzAwMywxMTU4NywxMjEwNSwwLjg5NTQ4NTExNTg1MTA3MywwLjU0ODU0OTMsMC4xMjE5OTI0
+OSwwLjQ1MTE3OTUzLDAuNDI2NTU2NzcsMC4wMTE2NzgwMjMKMyxEMSw2MjEyMzQ0MSw1NjE4NzY1
+OCwxMTUyOCwxMjA0NCwwLjkwNDQ1MTc5OTQ0MjMzOSwwLjQ0NTc1ODA3LDAuMTE0NzcyOTE2LDAu
+NTU0MDE0MSwwLjMzMDk4NTE2LDAuMDI0OTI5MjgzCjQsRDIsNTI1ODUwNzUsNDgyNTcxODgsMTE0
+MTMsMTE5MTMsMC45MTc2OTc0MjY1MDM2MjMsMC4yNjAxNzc4LDAuMDgzMzA5Mjg1LDAuNzM5Njg5
+MiwwLjE3Njg2ODUxLDAuMDE4Mzk3NTUK
+
+--===============5967323069885015195==--
+--===============2151062758500236532==--
